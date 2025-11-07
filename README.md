@@ -87,4 +87,52 @@ Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 
 ## Project Insights
+- Call Center Dashboard – Project Insights
+
+##  Overall Performance
+- Total Calls: 1,000
+- Total Duration: 89,850 minutes
+- Total Purchase Amount: ₹96,623
+- Average Satisfaction Rating: 3.89 / 5
+- 5★ Ratings: 307 (≈30.7% of all calls)
+
+##  Monthly Trends
+- Peak Month: March (155 calls) — likely driven by fiscal year-end activity
+- Lowest Month: August (50 calls) — possible holiday impact
+- Insight: Call volumes show seasonal fluctuations; staffing and campaigns should align with high-demand months.
+
+##  Weekday Patterns
+- Highest Volume: Saturday (161 calls)
+- Lowest Volume: Thursday (128 calls)
+- Insight: Weekend demand is strong — optimize staffing and support coverage accordingly.
+
+## Representative Efficiency
+- Most Calls: R02 (218 calls)
+- Highest Revenue: R03 (₹20.9K)
+- Best Revenue per Call: R03 (₹101.0)
+- Insight: R03 is the most revenue-efficient — ideal for performance incentives and best practice    modeling.
+
+##  City & Demographics
+- Top City by Calls: Cleveland (389 calls)
+- Gender Split: 599 Female vs. 401 Male
+- Highest Female-to-Male Ratio: Cleveland (≈5.2:1)
+- Insight: Strong female engagement in Cleveland — tailor messaging and service strategies    accordingly.
+
+##  Customer-Level Sales
+- Top Customer: C0005 (Columbus) — ₹7,747 total sales
+- Balanced Engagement: C0013 (Cleveland) — consistent sales across all regions
+- Insight: Identify and nurture high-value customers for loyalty and upselling opportunities.
+
+## Satisfaction Distribution
+- Rating 4 Dominates: 428 calls
+- 5★ Ratings: 307 calls
+- Low Ratings (0–2): 68 calls
+- Insight: Majority of calls are rated 4–5, but converting 4s to 5s can significantly boost customer experience metrics.
+
+## Strategic Recommendations
+- Forecast call volumes using historical monthly and weekday trends
+- Prioritize R03 for training replication and incentive modeling
+- Launch targeted campaigns in Cleveland, especially for female customers
+- Investigate low-rating calls to improve service quality and resolution
+- Use low-volume months (Aug, Dec) for training, system upgrades, or outbound engagement
 
