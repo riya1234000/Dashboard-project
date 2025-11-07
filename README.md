@@ -1,23 +1,23 @@
-📊 Excel Dashboard Project: Dynamic Business Insights
+## 📊 Excel Dashboard Project: Dynamic Business Insights
 Welcome to my Excel Dashboard project — a fully interactive, filter-driven analytics tool built to transform raw Call Centre data into clear, actionable insights. This project demonstrates my ability to automate reporting, apply formulas, and design clean, user-friendly dashboards using Excel.
 
-Project Overview
+## Project Overview
 This dashboard allows users to analyze Call Centre performance across multiple dimensions in Table 1:-  such as Call number, Customer_ID, Duration, Representation, Date_of_call, Purchase Amount, FY, Day_of_week, Duration Busket, Rating Rounded. In Table 2:- Customer_ID, Gender, Age, City. It uses dropdown filters, dynamic summary tables, and responsive charts to deliver real-time insights in 2023.
 
-Dataset used
+## Dataset used
 Dataset
-Questions (KPI'S)
-
-Dashboard interactive
+## Questions (KPI'S)
+1. According to the Call Centre Dataset which months have formost call counts?
+## Dashboard interactive
 view Dashboard
-Process
+## Process
 verify data for any missing value and anomalies sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 Dashboard Screenshot
 image
-Project Insights
+## Project Insights
 The West region leads with ₹5,835,615.62 in net sales and a 21.00% profit share, indicating peak performance. In contrast, the South region trails with ₹5,333,577.25 and 19.14%, highlighting room for strategic improvement.
 Raipur and Pune lead with net sales over ₹20.5 lakh and profit shares of 7.45% and 7.30%, respectively — signaling high-performing urban markets. In contrast, Hydrabad, sales (₹17.32 lakh), shows a lower profit share of 6.16%, suggesting margin challenges.
 Offline purchases slightly lead, with 50.16% of transactions — indicating a continued trust in physical retail despite digital growth.
