@@ -5,7 +5,7 @@ Welcome to my Excel Dashboard project — a fully interactive, filter-driven ana
 This dashboard allows users to analyze Call Centre performance across multiple dimensions in Table 1:-  such as Call number, Customer_ID, Duration, Representation, Date_of_call, Purchase Amount, FY, Day_of_week, Duration Busket, Rating Rounded. In Table 2:- Customer_ID, Gender, Age, City. It uses dropdown filters, dynamic summary tables, and responsive charts to deliver real-time insights in 2023.
 
 ## Dataset used
-Dataset
+[Dataset](https://github.com/riya1234000/Dashboard-project/blob/main/call%20centre.xlsx)
 ## Questions (KPI'S)
 1. According to the Call Centre Dataset which months have formost call counts?
 ## Dashboard interactive
