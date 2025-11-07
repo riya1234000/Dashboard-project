@@ -9,7 +9,7 @@ This dashboard allows users to analyze Call Centre performance across multiple d
 ## Questions (KPI'S)
 1. According to the Call Centre Dataset which months have formost call counts?
 ## Dashboard interactive
-view Dashboard
+[view Dashboard](https://github.com/riya1234000/Dashboard-project/blob/main/Screenshot%202025-11-06%20001203.png)
 ## Process
 verify data for any missing value and anomalies sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
