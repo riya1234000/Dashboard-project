@@ -74,17 +74,19 @@ Total: 599 Female, 401 Male
 
 ## Dashboard Screenshot
 
-[view Dashboard]([https://github.com/riya1234000/Dashboard-project/blob/326952f4c0d99b16db59433f51ad0c37acd64f17/Screenshot%202026-02-14%20022223.png)])
+[view Dashboard](https://github.com/riya1234000/Dashboard-project/blob/326952f4c0d99b16db59433f51ad0c37acd64f17/Screenshot%202026-02-14%20022223.png)
+
+
+
+<img src="https://github.com/riya1234000/Dashboard-project/blob/326952f4c0d99b16db59433f51ad0c37acd64f17/Screenshot%202026-02-14%20022223.png" alt= "Image Description" width= "600">
+
+
 
 ## Process
 verify data for any missing value and anomalies sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-
-## Dashboard Screenshot
-<img width="1920" height="1140" alt="Screenshot 2025-11-07 230333" src="https://github.com/user-attachments/assets/42695457-97a1-4573-afe2-24c89e3fea6c" />
-
 
 ## Project Insights
 - Call Center Dashboard – Project Insights
