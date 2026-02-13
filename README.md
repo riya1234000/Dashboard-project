@@ -78,7 +78,7 @@ Total: 599 Female, 401 Male
 
 
 
-<img src="https://github.com/riya1234000/Dashboard-project/blob/326952f4c0d99b16db59433f51ad0c37acd64f17/Screenshot%202026-02-14%20022223.png" alt= "Image Description" width= "600">
+<img src="https://github.com/riya1234000/Dashboard-project/blob/326952f4c0d99b16db59433f51ad0c37acd64f17/Screenshot%202026-02-14%20022223.png" alt= "Image Description" width= "10000">
 
 
 
