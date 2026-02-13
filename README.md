@@ -74,7 +74,7 @@ Total: 599 Female, 401 Male
 
 ## Dashboard Screenshot
 
-[view Dashboard][https://github.com/riya1234000/Dashboard-project/blob/main/Screenshot%202025-11-06%20001203.png])
+[view Dashboard]([https://github.com/riya1234000/Dashboard-project/blob/326952f4c0d99b16db59433f51ad0c37acd64f17/Screenshot%202026-02-14%20022223.png)])
 
 ## Process
 verify data for any missing value and anomalies sort out the same.
